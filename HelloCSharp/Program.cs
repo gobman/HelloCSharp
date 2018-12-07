@@ -5,6 +5,7 @@ namespace HelloCSharp
     //Class for main HelloCSharp
     class Program
     {
+        //add function
         static float Add(float a, float b)
         {
             return a + b;
